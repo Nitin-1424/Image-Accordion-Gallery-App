@@ -23,12 +23,12 @@ How to Use:
   3. Delete Image: Click the delete button (marked with "x") to remove an image from the gallery. Confirm the deletion when prompted.
 
 How to Run?
-  Download and Install XAMPP.
-  Download the provided source code zip file.
-  Note: The database is included on the provided zip file.
+  * Download and Install XAMPP.
+  * Download the provided source code zip file.
+  * Note: The database is included on the provided zip file.
 
 Installation/Setup:
-  Create a database named "todo_kanban_db" in phpMyAdmin MySQL.
-  Transfer the provided source code to the htdocs folder.
-  Import the provided SQL file into the created database.
-  Open your browser with the link "http://localhost/todo-list-in-kanban-board/".
+  * Create a database named "todo_kanban_db" in phpMyAdmin MySQL.
+  * Transfer the provided source code to the htdocs folder.
+  * Import the provided SQL file into the created database.
+  * Open your browser with the link "http://localhost/todo-list-in-kanban-board/".
